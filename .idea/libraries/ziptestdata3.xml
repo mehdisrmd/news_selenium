@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ziptestdata3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/env/Lib/site-packagese/importlib_resources/tests/zipdata02/ziptestdata.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
